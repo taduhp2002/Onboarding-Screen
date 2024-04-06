@@ -56,7 +56,7 @@ class _BodyState extends State<Body> {
               flex: 2,
               child: Padding(
                 padding: EdgeInsets.symmetric(
-                    horizontal: getProportionateScreenWidth(20)),
+                    horizontal: getProportionateScreenWidth(30)),
                 child: Column(
                   children: <Widget>[
                     const Spacer(),
